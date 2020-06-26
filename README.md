@@ -13,3 +13,13 @@ I've made a helper shell script for linux `run` but on Windows or Mac, just see 
 ```bash
 docker-compose up --build
 ```
+
+
+Put all your secrets like the url/password to the slack in a file called `.env`
+
+Env file should look something like this:
+
+```env
+SLACK_URL=foo
+SLACK_PW=bar
+```
