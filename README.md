@@ -23,3 +23,11 @@ Env file should look something like this:
 SLACK_URL=foo
 SLACK_PW=bar
 ```
+
+
+## TODO Steps:
+
+1. Generate a public meme url.
+1. Connect to Slack.
+1. Listen to a phrase in a specific channel on Slack.
+1. Glue everything together.
