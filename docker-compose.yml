@@ -1,0 +1,11 @@
+version: "3.7"
+services: 
+    slackster:
+        build:
+            context: ./
+            dockerfile: Dockerfile
+
+
+        volumes: 
+            - ./app:/app
+    
