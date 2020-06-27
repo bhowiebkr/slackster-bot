@@ -21,6 +21,7 @@ def ask_google(query):
 
     xpaths = [
         '//*[@id="rso"]/div[1]/div[1]/div/div[1]/div/div[1]/div/span/span',
+        '//*[@id="rso"]/div[1]/div[1]/div/div[1]/div/div[2]/div/span/span',
     ]
 
     for xpath in xpaths:
