@@ -48,7 +48,7 @@ def main():
         pass
 
     if answer:
-        gen_meme(top=f"I don't always search for {question}", bottom=f"but when I do, {answer}")
+        gen_meme(top=f"I don't always define {question}", bottom=f"but when I do, {answer}")
 
     print("answer:", answer)
 
