@@ -15,13 +15,13 @@ docker-compose up --build
 ```
 
 
-Put all your secrets like the url/password to the slack in a file called `.env`
+Put all your secrets like the url/password to the slack in a file under the app folder called `.env`
 
 Env file should look something like this:
 
 ```env
-SLACK_URL=foo
-SLACK_PW=bar
+IMGFLIP_USERNAME=
+IMGFLIP_PASSWORD=
 ```
 
 
