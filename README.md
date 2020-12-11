@@ -1,5 +1,7 @@
 # slackster-bot
 
+This was a 24h trying to make a slack bot challenge I put on myself 6 months back. Most parts are done, but I don't think I ever got the slack bot side working. Have fun. 
+
 ## A Python challenge:
 Connect a meme generator to slack in under 24h
 
